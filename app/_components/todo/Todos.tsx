@@ -3,12 +3,10 @@ import {
     Card,
     CardContent,
     CardDescription,
-    CardFooter,
     CardHeader,
     CardTitle,
 } from "@/components/ui/card"
 import Todo from './Todo';
-import { useRouter } from 'next/navigation';
 import { API_URL } from '@/app/lib/config';
 
 
