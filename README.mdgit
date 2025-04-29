@@ -1,0 +1,1 @@
+"# Fullstack-nextjs"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/aldhussein/Fullstack-nextjs.gitgit push -u origin maincd my-app cls
